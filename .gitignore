@@ -40,5 +40,9 @@
 # debug information files
 *.dwo
 
+#Recomended to hide
 .idea/
 /enviroments
+
+#User's files
+*.sln
